@@ -2,9 +2,6 @@
 
 '''
 K-Means implementation for the CSC 7442 course project at LSU
-
-Author: Binbing Hou
-email: bhou@csc.lsu.edu
 '''
 
 import sys
