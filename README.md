@@ -1,4 +1,4 @@
-# A-Python-Implementation-for-KMeans
+# A Python Implementation for KMeans
 
 This is the implementation of the classic K-Means algorithm for the CSC 7442 course project at LSU,
 aiming to test the K-Means algorithm with different K values. 
